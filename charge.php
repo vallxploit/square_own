@@ -1,5 +1,5 @@
 <?php
-$access_token = 'YOUR_PRODUCTION_ACCESS_TOKEN';
+$access_token = 'EAAAl-Ua2srj2IUQbmqGarbvqIlaA0x2rVIiPqPReR-cBhMdrWwoHynTUUkh4oFd';
 
 if (!isset($_POST['nonce'])) {
     http_response_code(400);
